@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mudkip",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png"
+    },
+    {
+        "id": 2,
+        "name": "Arcanine",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
+    },
+    {
+        "id": 3,
+        "name": "Lucario",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png"
+    },
+    {
+        "id": 4,
+        "name": "Salamence",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png"
+    },
+    {
+        "id": 5,
+        "name": "Garchomp",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png"
+    },
+    {
+        "id": 6,
+        "name": "Hydreigon",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/635.png"
+    },
+    {
+        "id": 7,
+        "name": "Heracross",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/214.png"
+    },
+    {
+        "id": 8,
+        "name": "Scizor",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png"
+    },
+    {
+        "id": 9,
+        "name": "Tyranitar",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png"
+    },
+    {
+        "id": 10,
+        "name": "Aggron",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png"
+    },
+    {
+        "id": 11,
+        "name": "Golurk",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png"
+    },
+    {
+        "id": 12,
+        "name": "Gyrados",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
+    }
+]

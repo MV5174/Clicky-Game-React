@@ -1,0 +1,24 @@
+.cardImg {
+    background-color: #79C9F9;
+    height: 170px;
+    width: 170px;
+}
+
+.cardWrapper {
+    background-color: white;
+    height: 175px;
+    width: 175px;
+    padding: .27%;
+    float: left;
+    margin: .5%
+}
+
+.cardImg:hover {
+    background-color: #6992F2;  
+}
+
+.cardWrapper:hover {
+    -webkit-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 30px 0px rgba(0,0,0,0.75);
+}
